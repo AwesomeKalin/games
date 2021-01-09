@@ -22,4 +22,4 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Table of Contents
 
-- [Browser-Based](browser-based.md)
+- [Browser-Based](browser-based)
