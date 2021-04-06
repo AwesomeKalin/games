@@ -6,7 +6,7 @@ Below is a list of open source games and game-related projects - old school text
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/AwesomeKalin/games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/AwesomeKalin/games/edit/master/README.md)).
 
-Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Help: [Markdown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
 
@@ -178,6 +178,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5.
 * [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
+* [Achtung, die Kurve!](https://github.com/SimonAlling/kurve) - The aim of this project is to create an HTML5/JS remake of the original Achtung, die Kurve! from 1995.
+* [achtungkurve.com](https://github.com/maechler/kurve) - This is an open source HTML5 implementation of the famous game also known as Curve Fever, Zatacka or simply Kurve.
 
 ## Racing
 
@@ -235,6 +237,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
 * [Zop](https://github.com/Zolmeister/zop) - Connect like colors. [Play it now!](https://zop.zolmeister.com/)
+* [Robbo](https://github.com/Zibx/robbo) - port of 1989 atari game
 
 ## Clicker
 
@@ -264,6 +267,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Action
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+* [Abuse](http://abuse.zoy.org/browser/abuse/trunk) - Welcome to Abuse, the port of the classic game Abuse to the Simple DirectMedia Layer. Abuse was originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window.
+* [Abuse 1996](https://github.com/antrad/Abuse_1996) - The story: "You are Nick Vrenna. It is the year 2009. You have been falsely incarcerated inside a high security underground prison where illegal genetic experiments are taking place. Alan Blake, the head research scientist, has isolated the specific gene which causes violence and aggression in humans. This genetic sequence, called "Abuse", is highly infectious, causing horrific transformations and grotesque side-effects. You are the only person to show immunity to it. A prison riot erupts, and in the confusion all the cell doors are opened. Soon everyone, guards and convicts alike, become infected and transform into a horde of mutants which take over the building. Your only chance for escape is to don battle armor and reach the Control Room situated in the structure's deepest level. You must first stop the prison's Abuse-infected water supply from contaminating the outside world. Freedom and the fate of the world now depend on you." "We chose Abuse for our first game name because the game involved knowing full well that pressing the buttons in all those rooms was going to bring down hoards of howlers, but you would do it anyway, abusing yourself."
+* [Open Horizon](https://github.com/undefined-darkness/open-horizon) - An open source implementation of Ace Combat: Assault Horizon‘s render and physics.
 
 ## Arcade
 
@@ -302,6 +308,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+* [BetterSpades](https://github.com/xtreme8000/BetterSpades) - BetterSpades, an Ace of Spades client targeted at low end systems (GL/ES 1.1). Runs on your grandmother's rig!
+* [Iceball](https://github.com/iamgreaser/iceball) - Iceball is both a highly-extensible engine on top of which people can do anything they want, and a game that builds upon the classic version of Ace of Spades experience.
+* [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
 
 
 ## MMORPG
@@ -327,6 +336,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+* [FreeTrain](http://freetrain.sourceforge.net/) - Free & open source game of
+rail & business simulation
 
 ## Platform
 
@@ -358,11 +369,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
+* [Mazerator](https://github.com/MazeratorGame/Mazerator) - The maze game. Go through mazes and kill the monsters. Game is in active development. (By me!)
 
 ## Racing
 
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
+* [Deathchase 3D](https://web.archive.org/web/20070711231311/http://www.robsons.org.uk/archive/www.autismuk.freeserve.co.uk/deathchase3d-0.9.tar.gz) - Deathchase 3D is a remake of the Sinclair Spectrum game of the same name. It's a pseudo 3D game based on the light speeder sequence from "Return of the Jedi" where you have to shoot the bad guys' speeders. Finished.
 
 ## Programming
 
@@ -419,10 +432,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
+* [Civ2-clone](https://github.com/axx0/Civ2-clone) - Civ2-clone is a recreation of Sid Meier's Civilization II. It requires Civilization II's original assets
+* [Netacka](https://github.com/pwmarcz/netacka) - Netacka is a multiplayer game similar to Zatacka.
+* [Zatacka X](https://github.com/simenheg/zatackax) - Zatacka X is a modern, free remake of the classic Achtung, die Kurve!. In addition to all the features from the original game, Zatacka X includes special weapons, updated graphics, sound effects and AI controlled opponents.
+* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - A classic turn-based strategy game with two armies fighting against each other. Challenge yourself in campaign against AI or hot-seat battle with a friend. Using the easy map editor you can create any imaginable scenario to play and share online for others to discover!
+* [Chariot](https://github.com/ChariotEngine/Chariot) - The Chariot project is an attempt to re-implement the original Age of Empires (1997) engine in an open-source manner
 
 ## Others
 
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+ * [ScummVM](https://github.com/scummvm/scummvm) - ScummVM is a program which allows you to run certain classic graphical adventure games and Role-Playing games, provided you already have their data files.
 
 # Mobile Games
 
