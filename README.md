@@ -1,3 +1,5 @@
+Attention! I'm no longer maintaining this list due to better alternatives to the list. If you still want to support me, please check out my game [Mazerator](https://github.com/MazeratorGame/Mazerator)
+
 # Open-source games!
 
 Below is a list of open source games and game-related projects - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
